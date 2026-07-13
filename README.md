@@ -5,7 +5,7 @@
 Currently at a Brazilian ERP company serving 12,000+ pharmacies, where I own everything from full-stack development and AI integration to cloud infrastructure and legacy system reverse engineering. I like turning messy real-world problems into clean, shipped software.
 
 🔭 Exploring **LLM integration** patterns: RAG, vision OCR, agentic workflows.
-📫 Reach me: [LinkedIn](www.linkedin.com/in/davi-rinaldi-12b48121b)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/davi-rinaldi-12b48121b)
 
 ---
 
